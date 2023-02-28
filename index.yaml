@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  charts-st9:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-02-28T23:03:07.54119847+03:00"
+    description: A Helm chart for Kubernetes
+    digest: fce69994a54beb29979a8764a3af6b41e517092c246cd308b795bfcb3ac2d147
+    name: charts-st9
+    type: application
+    urls:
+    - charts-st9-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-02-28T23:03:07.540737658+03:00"
